@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Chong Kuang Ce",
+        "gender": "Male",
+        "marital_status": "Single",
+        "phone": "0164121775",
+        "email": "kuangce97@hotmail.com",
+        "address": "15, Seri Betik, Taman Seri Betik, 14000 Bukit Mertajam, Pulau Pinang",
+        "dob": "1997-10-03",
+        "nationality": "Malaysia",
+        "hire_date": "2025-03-03",
+        "department": "Development"
+    },
+    {
+        "name": "Mohammad Abu Bin Mohd Aiman",
+        "gender": "Male",
+        "marital_status": "Married",
+        "phone": "016-8523654",
+        "email": "abu.mohd@hotmail.com",
+        "address": "12, Jalan Seri Betik, Taman Seri Betik, 14000 Bukit Mertajam, Pulau Pinang.",
+        "dob": "1990-07-11",
+        "nationality": "Malaysia",
+        "hire_date": "2025-02-10",
+        "department": "Development"
+    },
+    {
+        "name": "James Brooke",
+        "gender": "Male",
+        "marital_status": "Single",
+        "phone": "0123699121",
+        "email": "brookejames@gmail.com",
+        "address": "48, Jalan Tasik Prima 2\/2, Taman Tasik Prima, 14000 Bukit Mertajam, Pulau Pinang.",
+        "dob": "1986-08-26",
+        "nationality": "United States",
+        "hire_date": "2025-02-01",
+        "department": "HR"
+    },
+    {
+        "name": "Tan Mei Ling",
+        "gender": "Female",
+        "marital_status": "Single",
+        "phone": "0168995642",
+        "email": "meiling@gmail.com",
+        "address": "29, Jalan Machang Bubok 22, Taman Machang Bubok, 14020 Bukit Mertajam, Pulau Pinang.",
+        "dob": "1996-05-06",
+        "nationality": "Malaysia",
+        "hire_date": "2025-03-11",
+        "department": "Accounting"
+    }
+]
